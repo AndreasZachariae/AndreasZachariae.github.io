@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
-## Content
+  
+# Content
 
 [Project 1](./project_1.html).
