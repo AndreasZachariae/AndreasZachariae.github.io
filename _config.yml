@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
@@ -9,6 +10,10 @@ include:
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+remote_theme: pages-themes/cayman@v0.2.0
+title: [The title of your site]
+description: [A short description of your site's purpose]
+show_downloads: [false]
+# google_analytics: [Your Google Analytics tracking ID]
