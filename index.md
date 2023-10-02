@@ -57,7 +57,7 @@ layout: default
 
         ```bibtex
         @article{zachariae_petra_2022-1,
-            title = {{PeTRA} – {Autonomer} {Personentransport} in {Krankenhäusern}},
+            title = {PeTRA – {Autonomer} {Personentransport} in {Krankenhäusern}},
             volume = {2022},
             copyright = {All rights reserved},
             issn = {1613-4958},
