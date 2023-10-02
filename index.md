@@ -26,16 +26,14 @@ layout: default
         <details>
         <summary>⯈Citation</summary>  
 
-        ```
-        @misc{zachariae2023human,
-            title={Human Emergency Detection during Autonomous Hospital Transports}, 
-            author={Andreas Zachariae and Julia Widera and Frederik Plahl and Björn Hein and Christian Wurll},
-            year={2023},
-            eprint={2307.08359},
-            archivePrefix={arXiv},
-            primaryClass={cs.RO}
-        }
-        ``` 
+            @misc{zachariae2023human,
+                title={Human Emergency Detection during Autonomous Hospital Transports}, 
+                author={Andreas Zachariae and Julia Widera and Frederik Plahl and Björn Hein and Christian Wurll},
+                year={2023},
+                eprint={2307.08359},
+                archivePrefix={arXiv},
+                primaryClass={cs.RO}
+            }
 
         </details>
 
