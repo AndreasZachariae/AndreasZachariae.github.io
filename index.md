@@ -37,12 +37,15 @@ layout: default
 
         </details>
 
+&nbsp;  
 
 2. **Dataset for Human Emergency Detection**
     ![Alt text](images/dataset_example_images.png)
     - 18,000 single images from 200 videos as a single label, multiclass classification problem.
     - Use case of a moving mobile robot in a highly dynamic environment with multiple people.
     - [Link to dataset (GitHub)](https://github.com/AndreasZachariae/PeTRA_Dataset_Human_Emergency_Detection)
+
+&nbsp;  
 
 3. **(German) "PeTRA – Autonomer Personentransport in Krankenhäusern" ([Link](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-PK/Publikationen/Forschungsbericht/HKA_ZH_Forschung_aktuell_2022.pdf))**
    - Authors: Andreas Zachariae, Frederik Plahl, Björn Hein, Christian Wurll
@@ -72,6 +75,8 @@ layout: default
         ```
 
         </details>
+
+&nbsp;  
 
 4. **(German) "Softwareentwicklung des Personen-Transfer Roboter-Assistenten (PeTRA) zur Unterstützung von Pflegekräften"**
    - Authors: Andreas Zachariae, Christian Wurll, Moritz Weisenböhler, Javier Moviglia
