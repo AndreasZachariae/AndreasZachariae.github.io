@@ -37,7 +37,7 @@ layout: default
 
         </details>
 
-<p> <br> </p>
+    <p> <br> </p>
 
 2. **Dataset for Human Emergency Detection**
     ![Alt text](images/dataset_example_images.png)
@@ -45,7 +45,7 @@ layout: default
     - Use case of a moving mobile robot in a highly dynamic environment with multiple people.
     - [Link to dataset (GitHub)](https://github.com/AndreasZachariae/PeTRA_Dataset_Human_Emergency_Detection)
 
-<p> <br> </p>
+    <p> <br> </p>
 
 3. **(German) "PeTRA – Autonomer Personentransport in Krankenhäusern" ([Link](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-PK/Publikationen/Forschungsbericht/HKA_ZH_Forschung_aktuell_2022.pdf))**
    - Authors: Andreas Zachariae, Frederik Plahl, Björn Hein, Christian Wurll
@@ -74,9 +74,9 @@ layout: default
         } 
         ```
 
-        </details>
+        </details>  
 
-<p> <br> </p>
+    <p> <br> </p>
 
 4. **(German) "Softwareentwicklung des Personen-Transfer Roboter-Assistenten (PeTRA) zur Unterstützung von Pflegekräften"**
    - Authors: Andreas Zachariae, Christian Wurll, Moritz Weisenböhler, Javier Moviglia
