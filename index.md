@@ -13,10 +13,10 @@ layout: default
 
 ## Publications
 
-1. **"Human Emergency Detection during Autonomous Hospital Transports" ([Arxiv](https://arxiv.org/abs/2307.08359))**
+1. **"Human Emergency Detection during Autonomous Hospital Transports" ([Springer](https://link.springer.com/10.1007/978-3-031-44981-9_21))**
     ![Alt text](images/pipeline.png)
    - Authors: Andreas Zachariae, Julia Widera, Frederik Plahl, Björn Hein, Christian Wurll
-   - 2023, Proceedings of the 18th International Conference IAS-18
+   - 2024, Intelligent Autonomous Systems 18
    - Best paper candidate of IAS-18, 2023 in Suwon, Korea
         <details>
         <summary>⯈Abstract</summary>
@@ -26,13 +26,22 @@ layout: default
         <details>
         <summary>⯈Citation</summary>  
 
-            @misc{zachariae2023human,
-                title={Human Emergency Detection during Autonomous Hospital Transports}, 
-                author={Andreas Zachariae and Julia Widera and Frederik Plahl and Björn Hein and Christian Wurll},
-                year={2023},
-                eprint={2307.08359},
-                archivePrefix={arXiv},
-                primaryClass={cs.RO}
+            @incollection{lee_human_2024,
+            	address = {Cham},
+            	title = {Human {Emergency} {Detection} {During} {Autonomous} {Hospital} {Transports}},
+            	volume = {794},
+            	copyright = {All rights reserved},
+            	isbn = {978-3-031-44980-2 978-3-031-44981-9},
+            	url = {https://link.springer.com/10.1007/978-3-031-44981-9_21},
+            	language = {en},
+            	urldate = {2024-04-24},
+            	booktitle = {Intelligent {Autonomous} {Systems} 18},
+            	publisher = {Springer Nature Switzerland},
+            	author = {Zachariae, Andreas and Widera, Julia and Plahl, Frederik and Hein, Björn and Wurll, Christian},
+            	editor = {Lee, Soon-Geul and An, Jinung and Chong, Nak Young and Strand, Marcus and Kim, Joo H.},
+            	year = {2024},
+            	doi = {10.1007/978-3-031-44981-9_21},
+            	pages = {233--245},
             }
 
         </details>
