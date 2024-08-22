@@ -24,31 +24,29 @@ layout: default
 ![Alt text](images/petra.jpg)
 - Authors: Andreas Zachariae, Frederik Plahl, Yucheng Tang, Ilshat Mamaev, Björn Hein, Christian Wurll
 - 2024, Robotics and Autonomous Systems, Volume 179
-<details>
-<summary><a>Abstract</a></summary>
-
-Human transports in hospitals are labor-intensive and primarily performed in beds to save time. This transfer method does not promote the mobility or autonomy of the patient. To relieve the caregivers from this time-consuming task, a mobile robot is developed to autonomously transport humans around the hospital. It provides different transfer modes including walking and sitting in a wheelchair. The problem that this paper focuses on is to detect emergencies and ensure the well-being of the patient during the transport. For this purpose, the patient is tracked and monitored with a camera system. OpenPose is used for Human Pose Estimation and a trained classifier for emergency detection. We collected and published a dataset of 18,000 images in lab and hospital environments. It differs from related work because we have a moving robot with different transfer modes in a highly dynamic environment with multiple people in the scene using only RGB-D data. To improve the critical recall metric, we apply threshold moving and a time delay. We compare different models with an AutoML approach. This paper shows that emergencies while walking are best detected by a SVM with a recall of 95.8% on single frames. In the case of sitting transport, the best model achieves a recall of 62.2%. The contribution is to establish a baseline on this new dataset and to provide a proof of concept for the human emergency detection in this use case.
-</details>
-<details>
-<summary><a>Citation</a></summary>
-<pre><code>
-@article{zachariaeHumanrobotInteractionsAutonomous2024,
-    title = {Human-robot interactions in autonomous hospital transports},
-    volume = {179},
-    copyright = {All rights reserved},
-    issn = {09218890},
-    url = {https://linkinghub.elsevier.com/retrieve/pii/S0921889024001398},
-    doi = {10.1016/j.robot.2024.104755},
-    language = {en},
-    urldate = {2024-08-22},
-    journal = {Robotics and Autonomous Systems},
-    author = {Zachariae, Andreas and Plahl, Frederik and Tang, Yucheng and Mamaev, Ilshat and Hein, Björn and Wurll, Christian},
-    month = sep,
-    year = {2024},
-    pages = {104755},
-}
-</code></pre>
-</details>
+    <details>
+    <summary><a>Abstract</a></summary>
+    Human transports in hospitals are labor-intensive and primarily performed in beds to save time. This transfer method does not promote the mobility or autonomy of the patient. To relieve the caregivers from this time-consuming task, a mobile robot is developed to autonomously transport humans around the hospital. It provides different transfer modes including walking and sitting in a wheelchair. The problem that this paper focuses on is to detect emergencies and ensure the well-being of the patient during the transport. For this purpose, the patient is tracked and monitored with a camera system. OpenPose is used for Human Pose Estimation and a trained classifier for emergency detection. We collected and published a dataset of 18,000 images in lab and hospital environments. It differs from related work because we have a moving robot with different transfer modes in a highly dynamic environment with multiple people in the scene using only RGB-D data. To improve the critical recall metric, we apply threshold moving and a time delay. We compare different models with an AutoML approach. This paper shows that emergencies while walking are best detected by a SVM with a recall of 95.8% on single frames. In the case of sitting transport, the best model achieves a recall of 62.2%. The contribution is to establish a baseline on this new dataset and to provide a proof of concept for the human emergency detection in this use case.
+    </details>
+    <details>
+    <summary><a>Citation</a></summary><pre><code>
+    @article{zachariaeHumanrobotInteractionsAutonomous2024,
+        title = {Human-robot interactions in autonomous hospital transports},
+        volume = {179},
+        copyright = {All rights reserved},
+        issn = {09218890},
+        url = {https://linkinghub.elsevier.com/retrieve/pii/S0921889024001398},
+        doi = {10.1016/j.robot.2024.104755},
+        language = {en},
+        urldate = {2024-08-22},
+        journal = {Robotics and Autonomous Systems},
+        author = {Zachariae, Andreas and Plahl, Frederik and Tang, Yucheng and Mamaev, Ilshat and Hein, Björn and Wurll, Christian},
+        month = sep,
+        year = {2024},
+        pages = {104755},
+    }
+    </code></pre>
+    </details>
 
 <p> <br> </p>
 
