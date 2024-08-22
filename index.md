@@ -13,7 +13,7 @@ layout: default
 <!-- [Project 1](./project_1.html). -->
 - KATE: Technology for Accessibility (LGFG scholarship) [[HKA]](https://www.h-ka.de/iras/profil/news-detailseite/artikel/promotionskolleg-zugaenglichkeit-durch-ki-basierte-assistenztechnologien-kate), [[KIT]](https://www.kate.kit.edu/index.php)
 - PeTRA: Autonomous person transport in hospitals (BMBF funded) [[Website]](http://patiententransportassistent.de/)
-- High-Level Task Coordination Framework based on BehaviorTree.CPP with ROS2 and HFSM [[GitHub]](https://github.com/AndreasZachariae/BehaviorTree.IRAS)
+- High-Level Task Control Framework based on BehaviorTree.CPP with ROS2 [[GitHub]](https://github.com/AndreasZachariae/BehaviorTree.IRAS)
 - Dataset for Emergency Detection during Hospital Transports with OpenPose [[GitHub]](https://github.com/AndreasZachariae/PeTRA_Dataset_Human_Emergency_Detection)
 - Multi-Floor Navigation with Hierarchical Graphs [[GitHub]](https://github.com/AndreasZachariae/semantic_hierarchical_graph)
 - ROS 2 Driver for a medical pulseoximeter [[GitHub]](https://github.com/AndreasZachariae/cms50dplus_ros2_driver)
@@ -31,26 +31,26 @@ layout: default
         </details>
         <details>
         <summary><a>Citation</a></summary>  
-
-            @article{zachariaeHumanrobotInteractionsAutonomous2024,
-                title = {Human-robot interactions in autonomous hospital transports},
-                volume = {179},
-                copyright = {All rights reserved},
-                issn = {09218890},
-                url = {https://linkinghub.elsevier.com/retrieve/pii/S0921889024001398},
-                doi = {10.1016/j.robot.2024.104755},
-                language = {en},
-                urldate = {2024-08-22},
-                journal = {Robotics and Autonomous Systems},
-                author = {Zachariae, Andreas and Plahl, Frederik and Tang, Yucheng and Mamaev, Ilshat and Hein, Björn and Wurll, Christian},
-                month = sep,
-                year = {2024},
-                pages = {104755},
-            }
-
+        <pre><code>
+        @article{zachariaeHumanrobotInteractionsAutonomous2024,
+            title = {Human-robot interactions in autonomous hospital transports},
+            volume = {179},
+            copyright = {All rights reserved},
+            issn = {09218890},
+            url = {https://linkinghub.elsevier.com/retrieve/pii/S0921889024001398},
+            doi = {10.1016/j.robot.2024.104755},
+            language = {en},
+            urldate = {2024-08-22},
+            journal = {Robotics and Autonomous Systems},
+            author = {Zachariae, Andreas and Plahl, Frederik and Tang, Yucheng and Mamaev, Ilshat and Hein, Björn and Wurll, Christian},
+            month = sep,
+            year = {2024},
+            pages = {104755},
+        }
+        </code></pre>
         </details>
 
-<p> <br> </p>
+    <p> <br> </p>
 
 2. **"Human Emergency Detection during Autonomous Hospital Transports" [[Springer]](https://link.springer.com/10.1007/978-3-031-44981-9_21)**
     ![Alt text](images/pipeline.png)
